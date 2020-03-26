@@ -4,7 +4,7 @@ const INITIAL_STATE = {
      data: 
         {
          header: {                   
-                    title:`COVID-19`
+                    title:`COVID - 19`
                  }
         }
 
